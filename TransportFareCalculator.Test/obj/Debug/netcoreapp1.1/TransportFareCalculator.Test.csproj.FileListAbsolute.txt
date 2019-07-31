@@ -1,0 +1,15 @@
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\obj\Debug\netcoreapp1.1\TransportFareCalculator.Test.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\obj\Debug\netcoreapp1.1\TransportFareCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\obj\Debug\netcoreapp1.1\TransportFareCalculator.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\obj\Debug\netcoreapp1.1\TransportFareCalculator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.Test\obj\Debug\netcoreapp1.1\TransportFareCalculator.Test.pdb

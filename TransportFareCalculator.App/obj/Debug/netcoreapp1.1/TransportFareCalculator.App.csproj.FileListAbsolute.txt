@@ -1,0 +1,10 @@
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\bin\Debug\netcoreapp1.1\TransportFareCalculator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\obj\Debug\netcoreapp1.1\TransportFareCalculator.App.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\obj\Debug\netcoreapp1.1\TransportFareCalculator.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\obj\Debug\netcoreapp1.1\TransportFareCalculator.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\obj\Debug\netcoreapp1.1\TransportFareCalculator.App.dll
+C:\Users\rparkar\Desktop\Assignments\TransportFareCalculator\TransportFareCalculator.App\obj\Debug\netcoreapp1.1\TransportFareCalculator.App.pdb
